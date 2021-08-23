@@ -1,1 +1,1 @@
-# c_26project
+# Project Template 26
